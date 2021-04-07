@@ -1,0 +1,5 @@
+- 👋 Hello, I’m @dgess.
+- 👀 I am interested in tools such as Airflow, Kubeflow, and Argo.
+- 🌱 I am currently learning Machine Learning Opertaions... it seems this will not end any time soon.
+- 💞️ I am looking to collaborate on ML Workflows, specifically, creating ML pipelines without Kubeflow or Airflow.
+- 📫 Send me a message.
