@@ -3,3 +3,5 @@
 - 🌱 I am currently learning Machine Learning Opertaions... it seems this will not end any time soon.
 - 💞️ I am looking to collaborate on ML Workflows, specifically, creating ML pipelines without Kubeflow or Airflow.
 - 📫 Send me a message.
+- 📡 I am open to Freelance Opprotunities ( <5 hours a week) in Data Analysis or Machine Learning Engineering.
+- 🔖 Feel free to reach out.
